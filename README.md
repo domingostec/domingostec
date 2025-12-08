@@ -38,7 +38,7 @@
 ## 📂 Repositórios em destaque
 
 🔹 [Projeto POO Java](https://github.com/teteusxhs/projeto-poo-java) – Exercícios com classes, objetos e herança em Java  
-🔹 [Projeto POO Java](https://github.com/teteusxhs/planning-Java) – Java + Spring Boot 
+🔹 [Planning Java](https://github.com/teteusxhs/planning-Java) – Java + Spring Boot 
 ---
 
 ## 📫 Contatos
