@@ -18,7 +18,7 @@
 
 ## 📌 Sobre Mim
 
-🎓 **Análise e Desenvolvimento de Sistemas** - Anhanguera (2025-2027)  
+🎓 **Análise e Desenvolvimento de Sistemas** - Uninter (2025-2027)  
 💼 Buscando oportunidade como **Estagiário/Desenvolvedor Júnior Back-end Java**  
 🎯 Focado em **Java, Spring Boot, APIs REST e MySQL**  
 📚 +40 certificações na **Digital Innovation One** com foco em back-end  
