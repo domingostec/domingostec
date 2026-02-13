@@ -46,6 +46,12 @@
 
 ## 📂 Projetos em Destaque
 
+### 🎬 [MovieApi](https://github.com/domingostec/MovieApi)
+API REST para gerenciamento de filmes desenvolvida com **Java Spring Boot**
+- **Stack:** Java, Spring Boot, Spring Security, JPA/Hibernate, H2/PostgreSQL
+- **Funcionalidades:** Autenticação, CRUD de filmes, filtros por gênero, tratativas globais de exceções
+- **Demonstra:** Boas práticas de desenvolvimento de APIs REST e padronização de respostas
+
 ### 💰 [Expense Control API](https://github.com/domingostec/expense-control-api)
 API REST completa para controle financeiro desenvolvida com **Java Spring Boot**
 - **Stack:** Java, Spring Boot, Spring Data JPA, Hibernate, H2 Database
@@ -79,10 +85,8 @@ Aplicação Java para planejamento de atividades físicas e dieta
 
 ## 🎯 Objetivos Atuais
 
-1. **Aprofundar conhecimentos** em Spring Boot e microsserviços
-2. **Desenvolver projetos** com conexão a banco de dados MySQL
-3. **Aprender Docker** para containerização de aplicações
-4. **Contribuir** para projetos open source da comunidade Java
+1. **Aprofundar conhecimentos** em Spring Boot e microsserviços  
+2. **Desenvolver projetos** com conexão a banco de dados MySQL  
+3. **Aprender Docker** para containerização de aplicações  
+4. **Contribuir** para projetos open source da comunidade Java  
 5. **Conquistar primeira oportunidade** como desenvolvedor back-end
-
----
