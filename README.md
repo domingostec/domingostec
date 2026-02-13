@@ -66,14 +66,6 @@ Aplicação Java para planejamento de atividades físicas e dieta
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domingostec&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Linguagens mais usadas"/>
-</p>
-
----
-
 ## 🏆 Certificações & Cursos
 
 - **Digital Innovation One:** +40 certificações (Java Developer, Spring Framework, APIs REST, Git/GitHub)
