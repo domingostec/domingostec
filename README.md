@@ -20,7 +20,7 @@
 
 🎓 **Análise e Desenvolvimento de Sistemas** - Uninter (2025-2027)  
 💼 Buscando oportunidade como **Estagiário/Desenvolvedor Júnior Back-end Java**  
-🎯 Focado em **Java, Spring Boot, APIs REST e RESTful e MySQL**  
+🎯 Focado em **Java, Spring Boot, APIs REST/RESTful e MySQL**  
 📚 +40 certificações na **Digital Innovation One** com foco em back-end  
 🔥 Apaixonado por resolver problemas através de código eficiente
 
