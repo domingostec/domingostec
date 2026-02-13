@@ -47,7 +47,7 @@
 ## 📂 Projetos em Destaque
 
 ### 🎬 [MovieApi](https://github.com/domingostec/MovieApi)
-API REST para gerenciamento de filmes desenvolvida com **Java Spring Boot**
+API RESTful  para gerenciamento de filmes desenvolvida com **Java Spring Boot**
 - **Stack:** Java, Spring Boot, Spring Security, JPA/Hibernate, H2/PostgreSQL
 - **Funcionalidades:** Autenticação, CRUD de filmes, filtros por gênero, tratativas globais de exceções
 - **Demonstra:** Boas práticas de desenvolvimento de APIs REST e padronização de respostas
